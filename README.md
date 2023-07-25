@@ -60,6 +60,3 @@ This will run the server where you can find the page on localhost:3001. To end y
 
 ![Shot-1](./Assets/11-express-homework-demo-01.png)
 ![Shot-2](./Assets/11-express-homework-demo-02.png)
-
-### Credits
-Frontend starting files provided © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
