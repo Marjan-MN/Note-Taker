@@ -4,11 +4,22 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "uuid": "^5.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marjan-MN/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Marjan-MN/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Marjan-MN/Note-Taker#readme"
 }
